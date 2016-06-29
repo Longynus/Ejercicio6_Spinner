@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio6_Spinner</string>
+    <string name="tv1">Ingrese el primer valor</string>
+    <string name="tv2">Ingrese el segundo valor</string>
+    <string name="tv3">Resultado</string>
+    <string name="button">Operar</string>
+</resources>
